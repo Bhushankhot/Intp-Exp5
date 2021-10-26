@@ -2,7 +2,7 @@
 Simple BMI calculator application developed to understand React JS basics such as Components, State and Props
 
 ## Demo
-Link : https://bmi-calculator-react.herokuapp.com/
+Link : https://bhushan-reactulator.glitch.me/
 
 ## Instructions
 1. Download zip and extract.
